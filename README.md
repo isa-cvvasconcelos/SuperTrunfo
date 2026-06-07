@@ -1,2 +1,2 @@
 # SuperTrunfo
-Jogo de cartas em C, versão países
+Jogo de cartas Super Trunfo desenvolvido em C, versão países - projeto da graduação

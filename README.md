@@ -1,2 +1,2 @@
 # SuperTrunfo
-Jogo de cartas, versão países
+Jogo de cartas em C, versão países
